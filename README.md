@@ -147,3 +147,7 @@ output/cape_verde/raw/bilibili/<event_id>/comments/<BV号>/page_0001.json
 python -m unittest discover -s tests -v
 ```
 very good
+
+## 海外公开数据
+
+Guardian、Google News、Bing News、Reddit、Lemmy、Stack Exchange 等海外来源的世界杯采集代码和数据已整理到 `外网` 分支。文件结构、数据规模、字段和复现方式见 [外网数据说明.md](外网数据说明.md)。
